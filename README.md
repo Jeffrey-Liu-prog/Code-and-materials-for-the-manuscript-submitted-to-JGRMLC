@@ -1,4 +1,5 @@
 This repository is the code and materials for the reproductivity of the manuscript "Advancing Freezing Rain Forecasting Up to 24 Hours: Harnessing Complex Network Priors in BiLSTM-Transformer Models" submitted to the journal JGR: Machine Learning and Computation.
+
 Requirement:
 1.torch >= 2.4.1+cu118 2.captum >=0.7.0 3.scikit-learn >=1.3.0
 
