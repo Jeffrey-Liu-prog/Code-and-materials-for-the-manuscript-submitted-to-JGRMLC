@@ -7,4 +7,4 @@ ResNet_BiLSTM_Transformer_seeded.ipynb is the code to split dataset, training, a
 
 IG_interactions.ipynb is the code for the analysis of interpretability and attribution for the deep learning models.
 
-The CMA and provincial reported freezing-rain areas and links are in:
+The CMA and provincial reported freezing-rain areas and links are in: Official reports and URL links.
