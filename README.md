@@ -7,4 +7,4 @@ ResNet_BiLSTM_Transformer_.ipynb is the code to split dataset, training, and val
 
 Integrated Gradient_interactions.ipynb is the code for the analysis of interpretability and attribution for the deep learning models.
 
-The CMA and provincial reported freezing-rain areas and links are in: Official reports and URL links.
+The CMA and provincial reported freezing-rain areas and links are in: Official reports and URL links.docx.
